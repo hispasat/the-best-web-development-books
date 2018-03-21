@@ -20,6 +20,12 @@ Looking for a good read? Explore the books listed below and pick up one of these
 
   * CSS Framework Alternatives - Explore Five Lightweight Alternatives to Bootstrap and Foundation [[Read]](/books/CSS%20Framework%20Alternatives%20-%20Explore%20Five%20Lightweight%20Alternatives%20to%20Bootstrap%20and%20Foundation%20with%20Project%20Examples.pdf)
   
+  * CSS3 - The Missing Manual - Third Edition [[Read]](/books/CSS3%20-%20The%20Missing%20Manual%20-%20Third%20Edition.pdf)
+  
+  * Mastering PostCSS for Web Design [[Read]](/books/Mastering%20PostCSS%20for%20Web%20Design.pdf)
+  
+  * Thinking in CSS [[Read]](/books/Thinking%20in%20CSS.pdf)
+  
 ### Contributing
 
 We'd love to have your helping hand on contributions to this list by sending a pull request.
