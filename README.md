@@ -2,7 +2,7 @@
 
 Welcome to Web development eBooks collections! Enjoy learning, feel free to share with your friends!
 
-Let star this project to keep tracking and be easy to find the project again later! Thanks
+Let star this project to keep tracking and be easy to find the project again later! Thanks!
 
 ## List of Books
 
@@ -34,7 +34,7 @@ Looking for a good read? Explore the books listed below and pick up one of these
   
 ### Contributing
 
-We'd love to have your helping hand on contributions to this list by sending a pull request.
+We'd love to have your helping hand on contributions to this project by forking and sending a pull request!
 
 Your contributions are heartily ♡ welcome, recognized and appreciated. (✿◠‿◠)
 
