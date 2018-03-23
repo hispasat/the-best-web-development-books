@@ -103,6 +103,12 @@ Looking for a good read? Explore the books listed below and pick up one of these
   * The Majesty of Vue.js [[Read]](/books/The%20Majesty%20of%20Vue.js.pdf)
   
   * Vue.js 2 Web Development Projects - Learn Vue.js by building 6 web apps [[Read]](/books/Vue.js%202%20Web%20Development%20Projects%20-%20Learn%20Vue.js%20by%20building%206%20web%20apps.pdf)
+  
+* WebSocket
+
+  * Getting Started with HTML5 WebSocket Programming [[Read]](/books/Getting%20Started%20with%20HTML5%20WebSocket%20Programming.pdf)
+  
+  * WebSocket Essentials – Building Apps with HTML5 WebSockets [[Read]](/books/WebSocket%20Essentials%20%E2%80%93%20Building%20Apps%20with%20HTML5%20WebSockets.pdf)
 
 * WebRTC
 
