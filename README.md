@@ -26,6 +26,8 @@ Looking for a good read? Explore the books listed below and pick up one of these
   
   * Thinking in CSS [[Read]](/books/Thinking%20in%20CSS.pdf)
   
+  * Practical CSS3 - Develop and Design [[Read]](/books/Practical%20CSS3%20-%20Develop%20and%20Design.pdf)
+  
 * Bootstrap
   
   * Learning Bootstrap [[Read]](/books/Learning%20Bootstrap.pdf)
