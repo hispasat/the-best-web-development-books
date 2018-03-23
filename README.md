@@ -103,7 +103,19 @@ Looking for a good read? Explore the books listed below and pick up one of these
   * The Majesty of Vue.js [[Read]](/books/The%20Majesty%20of%20Vue.js.pdf)
   
   * Vue.js 2 Web Development Projects - Learn Vue.js by building 6 web apps [[Read]](/books/Vue.js%202%20Web%20Development%20Projects%20-%20Learn%20Vue.js%20by%20building%206%20web%20apps.pdf)
+
+* WebRTC
+
+  * Getting Started with WebRTC [[Read]](/books/Getting%20Started%20with%20WebRTC.pdf)
   
+  * Learning WebRTC [[Read]](/books/Learning%20WebRTC.pdf)
+  
+  * WebRTC Blueprints [[Read]](/books/WebRTC%20Blueprints.pdf)
+  
+  * WebRTC Cookbook [[Read]](/books/WebRTC%20Cookbook.pdf)
+  
+  * WebRTC Integrator's Guide [[Read]](/books/WebRTC%20Integrator's%20Guide.pdf)
+
 ### Contributing
 
 We'd love to have your helping hand on contributions to this project by forking and sending a pull request!
