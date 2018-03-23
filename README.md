@@ -109,6 +109,12 @@ Looking for a good read? Explore the books listed below and pick up one of these
   * Getting Started with HTML5 WebSocket Programming [[Read]](/books/Getting%20Started%20with%20HTML5%20WebSocket%20Programming.pdf)
   
   * WebSocket Essentials – Building Apps with HTML5 WebSockets [[Read]](/books/WebSocket%20Essentials%20%E2%80%93%20Building%20Apps%20with%20HTML5%20WebSockets.pdf)
+  
+* Socket.io
+
+  * Socket.IO Cookbook [[Read]](/books/Socket.IO%20Cookbook.pdf)
+  
+  * Socket.IO Real-time Web Application Development [[Read]](/books/Socket.IO%20Real-time%20Web%20Application%20Development.pdf)
 
 * WebRTC
 
