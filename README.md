@@ -96,6 +96,14 @@ Looking for a good read? Explore the books listed below and pick up one of these
   
   * Mastering Web Application Development with AngularJS [[Read]](/books/Mastering%20Web%20Application%20Development%20with%20AngularJS.pdf)
   
+* Vue.js
+
+  * Learning Vue.js 2 [[Read]](/books/Learning%20Vue.js%202.pdf)
+  
+  * The Majesty of Vue.js [[Read]](/books/The%20Majesty%20of%20Vue.js.pdf)
+  
+  * Vue.js 2 Web Development Projects - Learn Vue.js by building 6 web apps [[Read]](/books/Vue.js%202%20Web%20Development%20Projects%20-%20Learn%20Vue.js%20by%20building%206%20web%20apps.pdf)
+  
 ### Contributing
 
 We'd love to have your helping hand on contributions to this project by forking and sending a pull request!
