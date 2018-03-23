@@ -40,6 +40,30 @@ Looking for a good read? Explore the books listed below and pick up one of these
   
   * Functional Programming in JavaScript [[Read]](/books/Functional%20Programming%20in%20JavaScript.pdf)
   
+  * JavaScript - The Definitive Guide, 6th edition [[Read]](/books/JavaScript%20-%20The%20Definitive%20Guide%2C%206th%20edition.pdf)
+  
+  * Learning JavaScript Robotics [[Read]](/books/Learning%20JavaScript%20Robotics.pdf)
+  
+  * Learning JavaScript [[Read]](/books/Learning%20JavaScript.pdf)
+  
+  * Mastering JavaScript Design Patterns [[Read]](/books/Mastering%20JavaScript%20Design%20Patterns.pdf)
+  
+  * Mastering JavaScript Design Patterns - Second Edition [[Read]](/books/Mastering%20JavaScript%20Design%20Patterns%20-%20Second%20Edition.pdf)
+  
+  * Mastering JavaScript [[Read]](/books/Mastering%20JavaScript.pdf)
+  
+  * Object-Oriented JavaScript - Second Edition [[Read]](/books/Object-Oriented%20JavaScript%20-%20Second%20Edition.pdf)
+  
+  * Pro JavaScript Performance [[Read]](/books/Pro%20JavaScript%20Performance.pdf)
+  
+  * The Past, Present, and Future of JavaScript [[Read]](/books/Pro%20JavaScript%20Performance.pdf)
+  
+  * The Past, Present, and Future of JavaScript [[Read]](/books/The%20Past%2C%20Present%2C%20and%20Future%20of%20JavaScript.pdf)
+  
+  * The Principles of Object-Oriented Javascript [[Read]](/books/The%20Principles%20of%20Object-Oriented%20JavaScript.pdf)
+  
+  * Thinking in JavaScript [[Read]](/books/Thinking%20in%20JavaScript.pdf)
+  
 ### Contributing
 
 We'd love to have your helping hand on contributions to this project by forking and sending a pull request!
