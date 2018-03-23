@@ -64,6 +64,14 @@ Looking for a good read? Explore the books listed below and pick up one of these
   
   * Thinking in JavaScript [[Read]](/books/Thinking%20in%20JavaScript.pdf)
   
+* React
+
+  * Front-End Reactive Architectures [[Read]](/books/Front-End%20Reactive%20Architectures.pdf)
+  
+  * Learning Web Development with React and Bootstrap [[Read]](/books/Learning%20Web%20Development%20with%20React%20and%20Bootstrap.pdf)
+  
+  * React Design Patterns and Best Practices [[Read]](/books/React%20Design%20Patterns%20and%20Best%20Practices.pdf)
+  
 ### Contributing
 
 We'd love to have your helping hand on contributions to this project by forking and sending a pull request!
