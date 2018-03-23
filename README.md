@@ -76,8 +76,6 @@ Looking for a good read? Explore the books listed below and pick up one of these
   
 * React
 
-  * Front-End Reactive Architectures [[Read]](/books/Front-End%20Reactive%20Architectures.pdf)
-  
   * Learning Web Development with React and Bootstrap [[Read]](/books/Learning%20Web%20Development%20with%20React%20and%20Bootstrap.pdf)
   
   * React Design Patterns and Best Practices [[Read]](/books/React%20Design%20Patterns%20and%20Best%20Practices.pdf)
@@ -127,7 +125,35 @@ Looking for a good read? Explore the books listed below and pick up one of these
   * WebRTC Cookbook [[Read]](/books/WebRTC%20Cookbook.pdf)
   
   * WebRTC Integrator's Guide [[Read]](/books/WebRTC%20Integrator's%20Guide.pdf)
+  
+* Others
 
+  * Front-End Reactive Architectures [[Read]](/books/Front-End%20Reactive%20Architectures.pdf)
+
+  * Seven Web Frameworks in Seven Weeks [[Read]](/books/Seven%20Web%20Frameworks%20in%20Seven%20Weeks.pdf)
+  
+  * CoffeeScript Application Development Cookbook [[Read]](/books/CoffeeScript%20Application%20Development%20Cookbook.pdf)
+  
+  * Getting Started with Twitter Flight [[Read]](/books/Getting%20Started%20with%20Twitter%20Flight.pdf)
+  
+  * High Performance Web Sites - Essential Knowledge for Front-End Engineers [[Read]](/books/High%20Performance%20Web%20Sites%20-%20Essential%20Knowledge%20for%20Front-End%20Engineers.pdf)
+  
+  * jQuery Design Patterns [[Read]](/books/jQuery%20Design%20Patterns.pdf)
+  
+  * Learning Single-page Web Application Development [[Read]](/books/Learning%20Single-page%20Web%20Application%20Development.pdf)
+  
+  * MEAN Web Development [[Read]](/books/MEAN%20Web%20Development.pdf)
+  
+  * Offline First Web Development [[Read]](/books/Offline%20First%20Web%20Development.pdf)
+  
+  * Practical Webix - Learn to Expedite and Improve your Web Development [[Read]](/books/Practical%20Webix%20-%20Learn%20to%20Expedite%20and%20Improve%20your%20Web%20Development.pdf)
+  
+  * Programming the Semantic Web [[Read]](/books/Programming%20the%20Semantic%20Web.pdf)
+  
+  * Seven Web Frameworks in Seven Weeks [[Read]](/books/Seven%20Web%20Frameworks%20in%20Seven%20Weeks.pdf)
+  
+  * The Modern Web - Multi-Device Web Development with HTML5, CSS3, and JavaScript [[Read]](/books/The%20Modern%20Web%20-%20Multi-Device%20Web%20Development%20with%20HTML5%2C%20CSS3%2C%20and%20JavaScript.pdf)
+  
 ### Contributing
 
 We'd love to have your helping hand on contributions to this project by forking and sending a pull request!
