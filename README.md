@@ -32,6 +32,14 @@ Looking for a good read? Explore the books listed below and pick up one of these
   
   * Learning Bootstrap 4 - Second Edition [[Read]](/books/Learning%20Bootstrap%204%20-%20Second%20Edition.pdf)
   
+* Javascript
+  
+  * Beginning JavaScript [[Read]](/books/Beginning%20JavaScript.pdf)
+  
+  * Functional JavaScript - Introducing Functional Programming with Underscore.js [[Read]](/books/Functional%20JavaScript%20-%20Introducing%20Functional%20Programming%20with%20Underscore.js.pdf)
+  
+  * Functional Programming in JavaScript [[Read]](/books/Functional%20Programming%20in%20JavaScript.pdf)
+  
 ### Contributing
 
 We'd love to have your helping hand on contributions to this project by forking and sending a pull request!
