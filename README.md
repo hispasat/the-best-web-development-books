@@ -72,6 +72,20 @@ Looking for a good read? Explore the books listed below and pick up one of these
   
   * React Design Patterns and Best Practices [[Read]](/books/React%20Design%20Patterns%20and%20Best%20Practices.pdf)
   
+* Angular
+
+  * Angular Test-Driven Development [[Read]](/books/Angular%20Test-Driven%20Development%20-%20Second%20Edition.pdf)
+  
+  * AngularJS Essentials [[Read]](/books/AngularJS%20Essentials.pdf)
+  
+  * Dependency Injection with AngularJS [[Read]](/books/Dependency%20Injection%20with%20AngularJS.pdf)
+  
+  * Learning Web Development with Bootstrap and AngularJS [[Read]](/books/Learning%20Web%20Development%20with%20Bootstrap%20and%20AngularJS.pdf)
+  
+  * Learning Web Development with Bootstrap and Angular - Second Edition [[Read]](/books/Learning%20Web%20Development%20with%20Bootstrap%20and%20Angular%20-%20Second%20Edition.pdf)
+  
+  * Mastering Web Application Development with AngularJS [[Read]](/books/Mastering%20Web%20Application%20Development%20with%20AngularJS.pdf)
+  
 ### Contributing
 
 We'd love to have your helping hand on contributions to this project by forking and sending a pull request!
