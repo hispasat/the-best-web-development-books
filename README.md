@@ -34,6 +34,14 @@ Looking for a good read? Explore the books listed below and pick up one of these
   
   * Learning Bootstrap 4 - Second Edition [[Read]](/books/Learning%20Bootstrap%204%20-%20Second%20Edition.pdf)
   
+* TypeScript
+
+  * Pro TypeScript - Application-Scale JavaScript Development - Second Edition [[Read]](/books/Pro%20TypeScript%20-%20Application-Scale%20JavaScript%20Development%20-%20Second%20Edition.pdf)
+  
+  * Mastering TypeScript - Second Edition [[Read]](/books/Mastering%20TypeScript%20-%20Second%20Edition.pdf)
+  
+  * TypeScript Design Patterns [[Read]](/books/TypeScript%20Design%20Patterns.pdf)
+  
 * Javascript
   
   * Beginning JavaScript [[Read]](/books/Beginning%20JavaScript.pdf)
